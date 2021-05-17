@@ -1,0 +1,3 @@
+# BMI
+THis is a sample BMI calculator.
+When The weight(in kg) and height(in mts) is given the accurate BMI value is shown as output...
